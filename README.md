@@ -9,6 +9,6 @@ this is a block needed to be noticed `small`
 >>安樂區
 >>中正區
 
-*red
-*green
-*blue
+* red
+* green
+* blue
